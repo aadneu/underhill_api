@@ -15,9 +15,10 @@
     ]
   },
   "hvordan": {
-    "title": "PÅGÅENDE PROSJEKT",
-    "paragraph": "Laget et lite jukse-API for å kunne oppdatare denne teksten du ser her.",
-    "link": "https://github.com/aadneu/underhill_api"
+    "title": "SISTE PROSJEKT",
+    "paragraph": "Laget et lite jukse-API for å kunne oppdatere denne teksten du ser her.",
+    "link": "https://github.com/aadneu/underhill_api",
+    "btn": "Link til prosjekt"
   }
 }
 
