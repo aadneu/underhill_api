@@ -16,7 +16,7 @@
   },
   "hvordan": {
     "title": "PÅGÅENDE PROSJEKT",
-    "paragraph": "Liten tekst om pågående prosjekt",
+    "paragraph": "Laget et lite jukse-API for å kunne oppdatare denne teksten du ser her.",
     "link": "https://github.com/aadneu/underhill_api"
   }
 }
