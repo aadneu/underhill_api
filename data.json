@@ -10,15 +10,15 @@
   "hva": {
     "title": "HVA GJØR JEG",
     "text": [
-      "Jeg er er en aspirerende fullstack-utvikler.",
-      "Ferdighetene mine inkluderer foreløpig HTML, CSS, Bootstrap, JavaScript og React, noe som gjør meg kjent med frontend webutvikling. I tillegg har jeg noe erfaring med Node.js, C#, .NET, og Microsoft SQL, for å kunne håndtere backend og database."
+      "Jeg var naprapat, nå er jeg er en aspirerende fullstack-utvikler.",
+      "Ferdighetene mine inkluderer foreløpig grunnleggende kunnskap om HTML, CSS, og JavaScript, rammeverket React + Bootstrap, som gjør meg kjent med frontend webutvikling. I tillegg har jeg noe erfaring med Node.js, C#, .NET, og Microsoft SQL, for å kunne håndtere backend og database."
     ]
   },
   "hvordan": {
-    "title": "SISTE PROSJEKT",
-    "paragraph": "Laget et lite jukse-API for å kunne oppdatere denne teksten du ser her.",
-    "link": "https://github.com/aadneu/underhill_api",
-    "btn": "Link til prosjekt."
+    "title": "HVA GJØR JEG AKKURAT NÅ?",
+    "paragraph": "Sitter for tiden med Python da jeg gjerne vil utvide repertoaret mitt fra hovedsaklig webutvikling til å være noe mer allsidig.",
+    "link": "https://github.com/aadneu/underhill",
+    "btn": "Link til hjemmesiden min på GitHub."
   }
 }
 
